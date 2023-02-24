@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+I'm Nuno, and I am currently a student at Aveiro University studying computer engineering, and a beginner researcher at embedded systems group at Instituto de Telecomunicações.
 
 <!--
 **NunoVidal/NunoVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NunoVidal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoVidal)](https://github.com/anuraghazra/github-readme-stats)
